@@ -18,16 +18,17 @@ def main():
     print()
 
      # Large letters go here
-    print("...BBBBBBBB..............DDDDDDDD..............KKKK........KKK....")
-    print("...BBBBBBBBB.............DDDDDDDDD.............KKKK.......KKK.....")
-    print("...BB.......BBB..........DD.......DDD..........KKKK......KKK......")
-    print("...BB........BB..........DD........DD..........KKKK.....KKK.......")
-    print("...BBBBBBBBBB............DD........DD..........KKKKKKKK...........")
-    print("...BBBBBBBBBB............DD........DD..........KKKKKKKK...........")
-    print("...BB........BB..........DD........DD..........KKKK.....KKK.......")
-    print("...BB.......BBB..........DD.......DDD..........KKKK......KKK......")
-    print("...BBBBBBBBB.............DDDDDDDDD.............KKKK.......KKK.....")
-    print("...BBBBBBBB.......****...DDDDDDDD.......****...KKKK........KKK****")
+    print("...BBBBBBBB............DDDDDDDD............KKKK........KKK..")
+    print("...BBBBBBBBB...........DDDDDDDDD...........KKKK.......KKK...")
+    print("...BB.......BBB........DD.......DDD........KKKK......KKK....")
+    print("...BB........BB........DD........DD........KKKK.....KKK.....")
+    print("...BBBBBBBBBB..........DD........DD........KKKKKKKK.........")
+    print("...BBBBBBBBBB..........DD........DD........KKKKKKKK.........")
+    print("...BB........BB........DD........DD........KKKK.....KKK.....")
+    print("...BB.......BBB........DD.......DDD........KKKK......KKK....")
+    print("...BBBBBBBBB......**...DDDDDDDDD......**...KKKK.......KKK.**")
+    print("...BBBBBBBB.......**...DDDDDDDD.......**...KKKK........KKK**")
     print()
 
 main()
+
